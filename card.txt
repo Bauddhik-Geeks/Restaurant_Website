@@ -1,0 +1,2 @@
+left side img     name                              qut
+                    price           

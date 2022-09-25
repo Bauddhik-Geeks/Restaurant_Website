@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --color-white:#fff;
+}
+.flex-box{
+    display: flex;
+    justify-content: center;
+
+}
+.main-div-cen{
+    height: 100vh;
+}
+
+.max-width{
+    max-width: 1280;
+}
+
+.main-cont{
+    /* padding-top: 3%; */
+}
+.boder-right{
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+/* .flex-row{
+    flex-direction: row;  bootstrap have clsss flex-row for flex-direction row
+} */
+.width90{
+    width: 90% !important;
+}
+
+
+
+.div-mid{
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    overscroll-behavior-y: auto;
+    /* height: 74vh;    height no use because parrent have */
+}
+
+
+.adjest-height {
+    flex-direction: column;
+    align-items: center;
+    height: max-content;
+}
