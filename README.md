@@ -5,7 +5,14 @@ It Collects data of the customes, so that we can see their shopping or billing h
 
 ## Current Progress
 
+> Frontend
 
+<img src = "src/images/front.png">
+
+> Database
+
+<img src = "src/images/db.png">
+<img src = "src/images/db2.png">
 
 
 
