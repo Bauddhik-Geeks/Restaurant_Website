@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 10, 2022 at 11:00 AM
+-- Generation Time: Oct 01, 2022 at 12:00 PM
 -- Server version: 10.4.22-MariaDB
 -- PHP Version: 8.0.13
 
@@ -80,7 +80,7 @@ CREATE TABLE `submenu` (
 --
 
 INSERT INTO `submenu` (`submenu_id`, `menu_id`, `submenu_name`, `submenu_price`) VALUES
-(1, 2, 'Dal Tadka', 200),
+(1, 2, 'Dal Tadka', 1000),
 (2, 2, 'Dal Badam', 500),
 (3, 4, 'Haaka Noodles', 200),
 (4, 2, 'Dal Urat', 30);
