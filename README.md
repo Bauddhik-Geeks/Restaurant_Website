@@ -1,4 +1,4 @@
-# Restruant
+# Restaurant
 
 This is a restaurant billing service website that creates bills for customers and for the company and save data into the database for future use.
 It Collects data of the customes, so that we can see their shopping or billing history.
